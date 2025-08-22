@@ -1,0 +1,41 @@
+### SOAP Note: soap_note_test
+
+**Visit Type:** Follow-up
+**Duration:** 25 minutes
+**Provider:** Dr. Anya Sharma
+**Place of Service:** Outpatient Hospital
+
+---
+
+**S: (Subjective)**
+
+The patient is a 58-year-old female here for a follow-up visit to discuss recent lab results and ongoing management of her hypertension and hyperlipidemia. She reports feeling well overall and has been compliant with her medication regimen. She denies any new complaints of chest pain, shortness of breath, or headaches. She mentions occasional lightheadedness if she stands up too quickly.
+
+*   **Symptoms:**
+    *   Occasional lightheadedness
+
+**O: (Objective)**
+
+*   **Vitals:** BP 128/82 (well-controlled), HR 72, Temp 98.6°F.
+*   **Recent Labs:** Lipid panel shows LDL at 95 mg/dL (improved from 130 mg/dL).
+*   **Physical Exam:** Cardiovascular exam reveals a regular rate and rhythm with no murmurs. Lungs are clear to auscultation. No peripheral edema.
+
+**A: (Assessment)**
+
+The patient's hypertension and hyperlipidemia are well-managed on current therapy. The occasional lightheadedness is likely orthostatic hypotension, a possible side effect of her blood pressure medication, but is mild at this time.
+
+*   **Diagnosis:**
+    *   I10 - Essential (primary) hypertension
+    *   E78.5 - Hyperlipidemia, unspecified
+    *   R03.1 - Nonspecific low blood-pressure reading
+
+**P: (Plan)**
+
+Continue with the current management plan with minor adjustments.
+
+1.  **Medication:** Continue current doses of Lisinopril and Atorvastatin.
+2.  **Patient Education:** Advised the patient to rise slowly from a seated or lying position to minimize lightheadedness. Discussed the importance of staying hydrated.
+3.  **Monitoring:** No new tests are required at this time.
+    *   **Ordered Tests:**
+        *   None
+4.  **Follow-up:** Schedule a routine follow-up appointment in 6 months. Advised her to call if symptoms of lightheadedness worsen or if she has any other concerns.

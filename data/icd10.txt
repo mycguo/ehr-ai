@@ -1,0 +1,4 @@
+E11.9: Type 2 diabetes mellitus without complications
+I10: Essential (primary) hypertension
+J45.909: Unspecified asthma, uncomplicated
+R63.5: Abnormal weight gain

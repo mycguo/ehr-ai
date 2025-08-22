@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  billing-agent:
+    build: .
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    depends_on:
+      - chroma
+    volumes:
+      - .:/app
+      - ~/.config/gcloud/application_default_credentials.json:/root/.config/gcloud/application_default_credentials.json:ro
+    environment:
+      - GOOGLE_APPLICATION_CREDENTIALS=/root/.config/gcloud/application_default_credentials.json
+
+  chroma:
+    image: ghcr.io/chroma-core/chroma:latest
+    ports:
+      - "8001:8000"
+    volumes:
+      - chroma-data:/chroma
+    environment:
+      - IS_PERSISTENT=TRUE
+
+volumes:
+  chroma-data:

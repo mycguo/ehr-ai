@@ -1,0 +1,4 @@
+99214: Office visit, est. patient, 25 minutes
+81001: Urinalysis, automated
+93000: EKG with interpretation
+36415: Venipuncture

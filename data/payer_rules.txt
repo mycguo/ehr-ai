@@ -1,0 +1,3 @@
+CO-197: Aetna denial - 99214 + 81001 requires Modifier 25
+CO-50: Not medically necessary without Dx E11.9
+Bundling Alert: CPT 93000 and 99214 require Modifier 25 for BlueCross

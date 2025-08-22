@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langgraph
+langchain
+chromadb
+pydantic
+google-cloud-aiplatform
